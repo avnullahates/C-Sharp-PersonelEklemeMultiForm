@@ -1,0 +1,11 @@
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\bin\Debug\03-PersonelEklemeMultipleForm.exe.config
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\bin\Debug\03-PersonelEklemeMultipleForm.exe
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\bin\Debug\03-PersonelEklemeMultipleForm.pdb
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\03-PersonelEklemeMultipleForm.csproj.AssemblyReference.cache
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\_03_PersonelEklemeMultipleForm.Form1.resources
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\_03_PersonelEklemeMultipleForm.Form2.resources
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\_03_PersonelEklemeMultipleForm.Properties.Resources.resources
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\03-PersonelEklemeMultipleForm.csproj.GenerateResource.cache
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\03-PersonelEklemeMultipleForm.csproj.CoreCompileInputs.cache
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\03-PersonelEklemeMultipleForm.exe
+C:\Users\pana_\Desktop\bilge adam\6. Hafta(14.06.2022-17.06.2022) 5 gun\4. Gun\OO-04-MultpleForms\03-PersonelEklemeMultipleForm\obj\Debug\03-PersonelEklemeMultipleForm.pdb
